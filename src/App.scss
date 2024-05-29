@@ -1,0 +1,54 @@
+$primary-color: #189d8c;
+
+// Cool and Vibrant Palette
+$cool-vibrant-colors: (
+  midnight-blue: #191970,
+  cyan: #00FFFF,
+  electric-purple: #BF00FF,
+  lime-green: #32CD32,
+  bright-yellow: #FFFF00
+);
+
+// Modern and Sleek Palette
+$modern-sleek-colors: (
+  charcoal: #36454F,
+  electric-blue: #7DF9FF,
+  neon-green: #39FF14,
+  hot-pink: #FF69B4,
+  bright-white: #FFFFFF
+);
+
+// Pastel and Fresh Palette
+$pastel-fresh-colors: (
+  pastel-blue: #AEC6CF,
+  mint-green: #98FF98,
+  lavender: #E6E6FA,
+  peach: #FFDAB9,
+  sunny-yellow: #FFFACD
+);
+
+// Bold and Dynamic Palette
+$bold-dynamic-colors: (
+  crimson-red: #DC143C,
+  tangerine: #FFA500,
+  gold: #FFD700,
+  turquoise: #40E0D0,
+  royal-blue: #4169E1
+);
+
+// Earthy and Natural Palette
+$earthy-natural-colors: (
+  forest-green: #228B22,
+  sky-blue: #87CEEB,
+  sunset-orange: #FF4500,
+  sand: #C2B280,
+  white-smoke: #F5F5F5
+);
+
+@import 'animate.css';
+
+
+input,
+textarea{
+  font-family: 'Helvetica Neue', serif;
+}
